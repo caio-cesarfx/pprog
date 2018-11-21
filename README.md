@@ -1,12 +1,12 @@
 # pprog
 Projetos da disciplina Paradigmas de Programação 2º/2018
 
-Instituto Federal de Educação, Ciência e Tecnologia de Brasília – IFB
-Campus Taguatinga – Bacharelado em Ciência da Computação
-Paradigmas de Programação - Profº Roberto Duarte Fontes
-16105760027 – Caio César Félix Caldeira
-16105760016 – Davi Ferreira Cordeiro
-161057600022 – Leonardo Santos da Silva
+Instituto Federal de Educação, Ciência e Tecnologia de Brasília – IFB 
+Campus Taguatinga – Bacharelado em Ciência da Computação 
+Paradigmas de Programação - Profº Roberto Duarte Fontes 
+16105760027 – Caio César Félix Caldeira 
+16105760016 – Davi Ferreira Cordeiro 
+161057600022 – Leonardo Santos da Silva 
 
 FDV – IFGames
 
