@@ -1,0 +1,47 @@
+.form-group {
+    font-family: Merriweather Sans, Helvetica, sans-serif;
+    text-align: left;
+    font-weight: bold;
+
+}
+
+.header {
+    background:url(/assets/img/Gamer.jpg) no-repeat center center scroll;
+    height: 300px;
+}
+
+.box-header .box-title {
+    display: inline-block;
+    font-size: 18px;
+    margin: 0;
+    line-height: 1;
+}
+
+.box.box-danger {
+    border-top-color: #999;
+    border-color: chartreuse;
+    box-shadow: 0px 0px 12px white;
+    border-left: 1px solid chartreuse;
+    border-right: 1px solid chartreuse;
+    border-radius: 10px;
+    border-bottom: 1px solid chartreuse;
+    width: 500px;
+    margin-left: 308px;
+
+}
+
+.box {
+    position: relative;
+    border-radius: 3px;
+    background: transparent;
+    border-top: 3px solid #d2d6de;
+    margin-bottom: 20px;
+    width: 100%;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+.form-group{
+    width: 370px;
+    text-align: center;
+    margin-left: 50px;
+}

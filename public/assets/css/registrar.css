@@ -1,0 +1,53 @@
+body{
+    background: url(/assets/img/login.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.box.box-primary {
+    border-top-color: rgb(66, 220, 163);
+    box-shadow: 4px 2px 28px white;
+    padding-left: 0px;
+    margin-left: 10px;
+}
+
+.box-body {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    padding: 10px;
+    background: black;
+}
+
+.box-header {
+    color: #444;
+    display: block;
+    padding: 10px;
+    position: relative;
+    background: black;
+}
+
+.no-border {
+    border: 0 !important;
+    margin-left: 10px;
+}
+
+.box{
+    background: #32402c36;
+}
+
+.box-footer {
+
+    border-top: 1px solid rgb(66, 220, 163);
+    padding-top: 20px;
+    background: #32402c36;
+
+}
+
+.btn {
+    background-color: black;
+    border-color: rgb(66, 220, 163);
+    color: rgb(66, 220, 163);
+
+}
