@@ -28,7 +28,10 @@ O suporte é o responsável por manter o sistema funcional. Dentre suas atribui�
 2.	Detalhamento das Funcionalidades Principais:
 
 As funcionalidades do sistema seguem o padrão de projeto CRUD (Create, Read, Update and Delete). Dessa forma, permite-se:
-•	Create: Cadastrar jogos, clientes, vendedores e administradores;
-•	Read: Consultar o banco de dados;
-•	Update: O administrador pode alterar atributos dos demais atores e dos jogos e o próprio sistema realiza alteração ao realizar uma venda;
-•	Delete: O administrador, o suporte e o sistema em si podem realizar exclusões do banco.
+•	Create: Cadastrar jogos, clientes, vendedores e administradores; 
+
+•	Read: Consultar o banco de dados; 
+
+•	Update: O administrador pode alterar atributos dos demais atores e dos jogos e o próprio sistema realiza alteração ao realizar uma venda; 
+
+•	Delete: O administrador, o suporte e o sistema em si podem realizar exclusões do banco. 
